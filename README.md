@@ -15,7 +15,7 @@ The chair should greet the candidate in the appropriate room and escort them to 
 Give a general introduction to the candidate and ask team members to briefly introduce themselves and share their position (parent, teacher, etc.).
 Monitor the flow of the interview and keep time so that each respondent completes as many questions as possible.
 Begin with this question:
-Could you please tell us a little about yourself and anything that you feel is important for us to know about you as a candidate for the [fill in building here] principalship?
+
 End with this question:
 Is there anything else we did not cover that you would like us to know about you as we consider you as a candidate for the Willow Primary School principalship?
 
